@@ -59,6 +59,7 @@ margin-bottom: 0;
     margin: 5% auto;
     padding: 30px;
     border-radius: 50px;
+    
 }
 .p .titulop {
     color: #6D6466;
@@ -67,6 +68,7 @@ margin-bottom: 0;
     text-align: center;
     font-weight: bolder;
     padding: 5px;
+    margin: 20px auto; 
 }
 .p .info2 {
     color: #6D6466;
@@ -81,7 +83,7 @@ margin-bottom: 0;
     height: auto;
     background: #C9D5B5;
     margin: 5% auto;
-    padding: 30px;
+    padding: 50px;
     border-radius: 50px;
 }
 .info .tituloseccion {
@@ -91,6 +93,8 @@ margin-bottom: 0;
     text-align: center;
     font-weight: bolder;
     border-bottom: 1px #6D6466 solid;
+    padding: 2%;
+    margin-top: -30px;
 }
 
 .info .infoinfo1 {
