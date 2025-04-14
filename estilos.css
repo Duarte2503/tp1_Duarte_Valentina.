@@ -8,13 +8,13 @@ body {
     
 }
 header {
-    width: 800%;
+    width: 150%;
     height: 300px;
     background: #9F9F92;
     display: flex;   
 }
 .name {
-    width: 800%;
+    width: 150%;
     height: 300px;
     background: #9F9F92;
     display: flex;
@@ -30,98 +30,64 @@ header {
 .img {
     position: absolute;
     top: 6%;
-    right: 5%;
-    width: 180px;
-    height: 180px;
+    right: 10%;
+    width: 200px;
+    height: 200px;
     border-radius: 100%; 
     overflow: hidden;
 }
 .img img {
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
 }
 .content .p1 {
 color: #e3e9db;
 font-family: "Calistoga", serif;
 font-weight: bolder;
 font-size: 65px;
-margin-bottom: 0;
+margin-bottom: 5%;
+margin-left: 5%;
+margin-top: 5%;
 }
-
 .content .p2 {
     color: #e3e9db;
     font-family: "Albert Sans", sans-serif;
     font-weight: bolder;
     font-size: 35px;
     margin-top: 0%;
-    margin-bottom: 0;
+    margin-bottom: 0%;
+    margin-left: 5%;
     }    
     
-.p {
-    width: 20%;
-    height: auto;
-    background: #C9D5B5;
-    margin: 5% auto;
-    padding: 50px;
-    border-radius: 50px;  
-    display: flex;
-    gap: 20px;
-    flex-direction: column;
-}
-.p .titulop {
-    width: 50%;
-    height: auto;
-    background: #C9D5B5;
-    margin: 5% auto;
-    padding: 30px;
-    border-radius: 50px;
-    
-    
-}
-.p .titulop {
-    color: #6D6466;
-    font-family: "Calistoga", serif;
-    font-size: xx-large;
-    text-align: center;
-    font-weight: bolder;
-    padding: 5px;
-    margin: 20px auto; 
-}
-.p .info2 {
-    color: #6D6466;
-    font-family: "Albert Sans", sans-serif;
-    font-weight:normal;
-    font-size: large;
-    display: inline;
-}
-
 .info{
-    width: 50%;
+    width: 40%;
     height: auto;
     background: #C9D5B5;
-    margin: 5% auto;
+    margin: 1% auto;
     padding: 50px;
     border-radius: 50px;
+    white-space: pre-line;
+    display: inline;
+
 }
 .info .tituloseccion {
     color: #6D6466;
     font-family: "Calistoga", serif;
     font-size: xx-large;
-    text-align: center;
+    text-align: left;
     font-weight: bolder;
     border-bottom: 1px #6D6466 solid;
     padding: 2%;
     margin-top: -30px;
 }
-
 .info .infoinfo1 {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
     font-weight:normal;
     font-size: large;
     display: inline;
+    
 }
-
 .info .info1  {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
@@ -129,9 +95,52 @@ margin-bottom: 0;
     font-size: large;
     display: inline;
     margin-right: 20px;
+    
 }
 
-.info .infoinfo1 {
+.p {
+    width: 20%;
+    height: auto;
+    background: #cbb3bf;
+    margin: 1% auto;
+    padding: 50px;
+    border-radius: 50px;  
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 2%;
+    top: 29%;
+    
+}
+.p .tituloseccion {
+    color: #6D6466;
+    font-family: "Calistoga", serif;
+    font-size: xx-large;
+    text-align: left;
+    font-weight: bolder;
+    border-bottom: 1px #6D6466 solid;
+    padding: 2%;
+    margin-top: -30px;
+}
+.p .infoinfo1 {
+    color: #6D6466;
+    font-family: "Albert Sans", sans-serif;
+    font-weight:normal;
+    font-size: large;
+    display: inline;
+    
+}
+.p .info1  {
+    color: #6D6466;
+    font-family: "Albert Sans", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+.p .infoinfo1 {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
     font-weight:normal;
@@ -139,7 +148,7 @@ margin-bottom: 0;
     display: inline;
 }
 
-.info .info1 {
+.p .info1 {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
     font-weight: bolder;
@@ -148,7 +157,7 @@ margin-bottom: 0;
     margin-right: 20px;
 }
 
-.info .infoinfo1 {
+.p .infoinfo1 {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
     font-weight:normal;
@@ -156,7 +165,7 @@ margin-bottom: 0;
     display: inline;
 }
 
-.info .info1  {
+.p .info1  {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
     font-weight: bolder;
@@ -165,7 +174,7 @@ margin-bottom: 0;
     margin-right: 20px;
 }
 
-.info .infoinfo1 {
+.p .infoinfo1 {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
     font-weight:normal;
@@ -173,7 +182,7 @@ margin-bottom: 0;
     display: inline;
 }
 
-.info .info1 {
+.p .info1 {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
     font-weight: bolder;
@@ -182,10 +191,161 @@ margin-bottom: 0;
     margin-right: 20px;
 }
 
-.info .infoinfo1 {
+.p .infoinfo1 {
     color: #6D6466;
     font-family: "Albert Sans", sans-serif;
     font-weight:normal;
     font-size: large;
     display: inline;
+}
+
+.info2 {
+    width: 17%;
+    height: 2% auto;
+    background: #C9D5B5;
+    margin: 40% auto;
+    padding: 50px;
+    border-radius: 50px;
+    white-space: pre-line;
+    display: inline;
+    flex-direction: row;
+    position: absolute;
+    right: 50%;
+    top: 21%;
+    left: 26%;
+
+}
+.info2 .tituloseccion {
+    color: #6D6466;
+    font-family: "Calistoga", serif;
+    font-size: xx-large;
+    text-align: left;
+    font-weight: bolder;
+    border-bottom: 1px #6D6466 solid;
+    padding: 2%;
+    margin-top: -30px;
+}
+.info2 .infoinfo1 {
+    color: #6D6466;
+    font-family: "Albert Sans", sans-serif;
+    font-weight:normal;
+    font-size: large;
+    display: inline;
+    
+}
+.info2 .info1  {
+    color: #6D6466;
+    font-family: "Albert Sans", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+.info3 {
+    width: 17%;
+    height: auto;
+    background: #C9D5B5;
+    margin: 40% auto;
+    padding: 50px;
+    border-radius: 50px;
+    white-space: pre-line;
+    display: inline;
+    flex-direction: row;
+    position: absolute;
+    right: 50%;
+    top: 21%;
+    left: 51%;
+
+}
+.info3 .tituloseccion {
+    color: #6D6466;
+    font-family: "Calistoga", serif;
+    font-size: xx-large;
+    text-align: left;
+    font-weight: bolder;
+    border-bottom: 1px #6D6466 solid;
+    padding: 2%;
+    margin-top: -30px;
+}
+.info3 .infoinfo1 {
+    color: #6D6466;
+    font-family: "Albert Sans", sans-serif;
+    font-weight:normal;
+    font-size: large;
+    display: inline;
+    
+}
+.info3 .info1  {
+    color: #6D6466;
+    font-family: "Albert Sans", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+.info4 {
+    width: 40%;
+    height: 2% auto;
+    background: #C9D5B5;
+    margin: 40% auto;
+    padding: 50px;
+    border-radius: 50px;
+    white-space: pre-line;
+    display: inline;
+    flex-direction: row;
+    position: absolute;
+    right: 50%;
+    top: 53%;
+    left: 27%;
+
+}
+.info4 .tituloseccion {
+    color: #6D6466;
+    font-family: "Calistoga", serif;
+    font-size: xx-large;
+    text-align: left;
+    font-weight: bolder;
+    border-bottom: 1px #6D6466 solid;
+    padding: 2%;
+    margin-top: -30px;
+}
+.info4 .infoinfo1 {
+    color: #6D6466;
+    font-family: "Albert Sans", sans-serif;
+    font-weight:normal;
+    font-size: large;
+    display: inline;
+    
+}
+.info4 .info1  {
+    color: #6D6466;
+    font-family: "Albert Sans", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    
+}
+footer {
+    background-color:#9F9F92;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 150%;
+    top: 800px;
+  }
+
+  .footer1 {
+    color: #e3e9db;
+    font-family: "Albert Sans", sans-serif;
+    font-weight:normal;
+    font-size: large;
+    display: inline;
+    margin-left: -20%;
 }
