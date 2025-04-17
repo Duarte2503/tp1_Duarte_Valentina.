@@ -5,3 +5,6 @@ Hola profes, corregí los errores que me habían indicado en clase, y después s
 •	Agregué íconos al footer utilizando Font Awesome. Para eso busqué un tutorial que me ayudó a incorporar los enlaces CDN correctamente y a aplicar los íconos.
 Me gustaría saber si los cambios que realicé están correctos, y principalmente si ahora el uso de las etiquetas semánticas está bien aplicado.
 ¡Gracias!
+
+asi se ve actualmete 
+"C:\Users\duart\Downloads\tp1_compu\index.html"
