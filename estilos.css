@@ -82,6 +82,7 @@ body {
   font-family: "Belleza", sans-serif;
   padding-top: 20px;
   margin-top: 0; 
+  border-bottom: 1px #2F3E46 solid;
 }
 
 ul {
@@ -120,6 +121,7 @@ ul ul {
   background: #52796F;
   padding: 30px;
   border-radius: 50px;
+  
 }
 
 .otros {
