@@ -40,8 +40,6 @@ header p {
 }
 
 img {
-  width: 200px;
-  height: 200px;
   border-radius: 100%;
   border: 17px double white;
 }
@@ -49,8 +47,6 @@ img {
 
 main {
   display: flex;
-  flex-direction: row;
-  width: 100%;
 }
   
 .izquierda {
@@ -98,6 +94,7 @@ ul ul {
 .temas {
   font-size: 19px;
   color: #354F52;
+  font-weight: bold;
 }
 
 /* COLUMNA DERECHA */
