@@ -3,5 +3,6 @@ Hola profe,Estuve trabajando en las correcciones que me marcaste: ya cambié las
 Además, le sumé el favicon al sitio.
 Si está todo bien así, no haría falta el meet. Pero si hay algo más para ajustar, me vendría bien la ayuda
 ¡Gracias!
+
 asi se ve:
 C:\Users\duart\Downloads\tp1_compu\index.html
