@@ -6,12 +6,12 @@ Universidad: UNLa – Universidad Nacional de Lanús
 Año: 2025 – 4° año
 
 
-* Descripción del trabajo *
+* Descripción del trabajo 
 
 Este trabajo práctico consistió en la creación de un Curriculum Vitae digital utilizando HTML5, una hoja de estilos externa en CSS y diagramación con Flexbox. Se respetaron los lineamientos de estructura semántica y buenas prácticas de codificación.
 
 
-Tecnologías y herramientas utilizadas
+* Tecnologías y herramientas utilizadas
 
 - HTML5 con etiquetas semánticas: `<header>`, `<main>`, `<section>`, `<footer>`, etc.
 - CSS3: uso de selectores de clase, propiedades de tipografía, color, espaciado, bordes y fondo.
@@ -22,17 +22,17 @@ Tecnologías y herramientas utilizadas
 - Inspección del navegador: herramienta usada para revisar y ajustar la disposición visual del sitio.
 
 
-Estructura y contenido
+* Estructura y contenido 
 
-Estructura general
+* Estructura general
 
 Todo el contenido se encuentra dentro de un `<div class="contenedor">` ubicado dentro del `<body>`, que actúa como bloque principal del diseño.
 
-Header
+* Header
 
 Contiene el nombre, subtítulo y una imagen personal. Está organizado con `flex-direction: row` para alinear el texto y la foto horizontalmente.
 
-Sección izquierda (información principal)
+* Sección izquierda (información principal)
 
 Ubicada dentro del `<main>`, esta sección contiene las partes más formales del CV:
 
@@ -44,7 +44,7 @@ Ubicada dentro del `<main>`, esta sección contiene las partes más formales del
 
 Cada bloque se estructura mediante `<section class="caja">`.
 
-Sección derecha (perfil personal)
+* Sección derecha (perfil personal)
 
 También dentro del `<main>`, agrupa la parte más subjetiva del perfil profesional:
 
@@ -54,12 +54,12 @@ También dentro del `<main>`, agrupa la parte más subjetiva del perfil profesio
 
 Estas están organizadas en `<section class="otros">`.
 
-Footer
+* Footer
 
 Contiene información de contacto organizada en una lista no ordenada (`<ul>`). Se usó Flexbox para distribuir íconos de forma horizontal, con clases de Font Awesome.
 
 
-Cambios realizados durante el proceso
+* Cambios realizados durante el proceso
 
 Corrección 1: Uso de `position: absolute` y falta de etiquetas semánticas
 
@@ -133,7 +133,7 @@ Cambios realizados:
 - Agregado de dimensiones a la imagen directamente en el HTML.
 
 
-Datos técnicos
+* Datos técnicos
 
 - Resolución base de diseño: 1920x1080 px
 - Editor de código: Visual Studio Code
@@ -142,7 +142,7 @@ Datos técnicos
 
 
 
-Comentario personal
+* Comentario personal
 
 Me gustó ir mejorando el trabajo progresivamente y aplicar correcciones que surgieron en clase y en la devolución del profe. 
 
