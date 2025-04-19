@@ -7,7 +7,7 @@ Año: 2025 – 4° año
 
 
 
-#  Descripción del trabajo
+Descripción del trabajo
 
 Este trabajo práctico consistió en la creación de un Curriculum Vitae digital utilizando HTML5, una hoja de estilos externa en CSS y diagramación con Flexbox. Se respetaron los lineamientos de estructura semántica y buenas prácticas de codificación.
 
