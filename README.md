@@ -10,22 +10,27 @@ Año: 2025 – 4° año
 
 ### Descripción del trabajo 
 
-Este trabajo práctico consistió en la creación de un Curriculum Vitae digital utilizando HTML5, una hoja de estilos externa en CSS y diagramación con Flexbox. Se respetaron los lineamientos de estructura semántica y buenas prácticas de codificación.
-
+Este trabajo práctico consistió en la creación de un Curriculum Vitae digital utilizando HTML5, una hoja de estilos externa en CSS y diagramación con Flexbox. 
 
 
 
 ### Tecnologías y herramientas utilizadas 
 
 - HTML5 con etiquetas semánticas: `<header>`, `<main>`, `<section>`, `<footer>`, etc.
-- CSS3: uso de selectores de clase, propiedades de tipografía, color, espaciado, bordes y fondo.
+- CSS: uso de selectores de clase, propiedades de tipografía, color, espaciado, bordes y fondo.
 - Flexbox: aplicado en la estructura principal (`main`), en la cabecera (`header`) y en el pie de página (`footer`) para lograr una distribución visual clara y flexible.
 - Google Fonts: tipografías “Belleza” y “Montserrat”.
 - Font Awesome: para íconos de redes sociales y contacto.
 - Favicon personalizado: ícono propio en la pestaña del navegador.
-- Inspección del navegador: herramienta usada para revisar y ajustar la disposición visual del sitio.
 
 
+
+### Datos técnicos
+
+- Resolución de Pantalla: 1920x1080 px
+- Editor de código: Visual Studio Code
+- Visualización verificada en: Google Chrome
+- Herramientas de desarrollo: Inspector del navegador 
 
 
 
@@ -80,9 +85,11 @@ Contiene información de contacto organizada en una lista no ordenada (`<ul>`). 
 
 #### Cambios realizados durante el proceso
 
-##### Corrección 1: Uso de `position: absolute` y falta de etiquetas semánticas
+##### Corrección 1: 
 
-** Problemas señalados:
+##### - Uso de `position: absolute` y falta de etiquetas semánticas
+
+** Problemas señalados: **
 
 - No se usaba Flexbox.
 - Se usaban muchos `div` genéricos.
@@ -156,12 +163,11 @@ Contiene información de contacto organizada en una lista no ordenada (`<ul>`). 
 
 
 
-### Datos técnicos
 
-- Resolución base de diseño: 1920x1080 px
-- Editor de código: Visual Studio Code
-- Visualización verificada en: Google Chrome
-- Herramientas de desarrollo: Inspector del navegador 
+
+###  Link al Repositorio 
+
+https://github.com/Duarte2503/tp1_Duarte_Valentina..git
 
 
 
@@ -169,8 +175,6 @@ Contiene información de contacto organizada en una lista no ordenada (`<ul>`). 
 
 ### Comentario personal
 
-Me gustó ir mejorando el trabajo progresivamente y aplicar correcciones que surgieron en clase y en la devolución del profe. 
 
-La devolución fue algo frustrante al principio, ya que hubo varios errores señalados, pero me ayudó muchísimo a detectar fallas en mi estructura. Gracias a eso pude mejorar aspectos importantes como el uso semántico de etiquetas y la organización visual.
+Me gusto el proceso del trabajo, las correciones fueron algo frustrante al principio, ya que hubo varios errores señalados, pero me ayudó muchísimo a detectar fallas en mi estructura. Gracias a eso pude mejorar aspectos importantes como el uso semántico de etiquetas y la organización visual. Además, el uso del inspector del navegador me permitió ver con más claridad cómo se estaba comportando el diseño, aunque todavía me gustaría que se viera más prolijo a nivel Diseño e interactivo. Sé que con más práctica voy a poder lograr una mejor presentación tanto en estructura como en diseño.
 
-Además, el uso del inspector del navegador me permitió ver con más claridad cómo se estaba comportando el diseño, aunque todavía me gustaría que se viera más prolijo a nivel Diseño e interactivo. Sé que con más práctica voy a poder lograr una mejor presentación tanto en estructura como en diseño.
